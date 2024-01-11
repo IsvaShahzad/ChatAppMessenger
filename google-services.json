@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248546064779",
+    "project_id": "chattingmessenger-86201",
+    "storage_bucket": "chattingmessenger-86201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248546064779:android:2ca866380b404df0e0578e",
+        "android_client_info": {
+          "package_name": "com.example.chatappflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCVn5iBDvcsDsq3tHrzWOZGJOcc2O7rT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
